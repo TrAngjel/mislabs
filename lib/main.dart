@@ -94,7 +94,7 @@ class  DetailsScreen extends StatelessWidget{
             ),
             SizedBox(height: 10),
             Text(item['price']!,
-              style: TextStyle(fontSize: 15),
+              style: TextStyle(fontSize: 20),
             ),
           ],
         ),
